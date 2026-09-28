@@ -1,0 +1,2 @@
+# premium-laminar-flow-001-laminar-flow-hood-building-cra
+Tired of juggling a dozen spreadsheets and messy notes just to keep your laminar flow hood build on track? The Laminar Flow Hood Building Craft Lab is your single source of truth for turning a pile of parts into a sterile workflow.  This Notion template transforms the chaotic process of building a laminar flow hood into a streamlined, step-by-step
